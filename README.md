@@ -1,6 +1,19 @@
 # Singularity-Reaver  
 Add on profile for the HCS Singularity BETA  
 
+## Current Features  
+
+ - Auto jumping after each fuel scoop. (Make sure you don't let it hit 100% fuel, or it will try and jump wile your scoop is out and cook you. I can't do anything about this, it's just how the journal files are written) 
+      If you are not near a scoopable star you will need to say the "initiate sequence" command after the "Enable auto jump" command to start the jump sequence. when you are finished jumping make sure you stop it with the "Sequence Complete" command.  
+ - Pasting a system name into the Galmap and routing to it.  
+      you can also use this with a list of systems in notepad, It will need to be in a file called "System Route.txt" and you will have to have it opened in Notepad.exe  
+      the format is just system name on each line with end on the very last line  
+ - "What mode am I in" uses TTS to tell you if you are in Open/Group/Solo in case you forget  
+ - "Copy System Name" will copy the system you are currently in to the windows clipboard  
+ - Mode switcher command will flip those pesky boards for you.
+ - Music commands. These will work with any music player that recognises media keys. I use https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-/releases which is why there are the thumps up/down ones
+
+
 # How to use this add on  
 First things first: YOU MUST OWN AN HCS VOICE PACK. If you don't own one, stop right now and don't bother. This is not a standalone VA Profile and it relies on a ton of things from HCS. Get Astra or something, that's the one I used to develop this.  
 Next: YOU MUST BE USING THE SINGULARITY BETA. If you don't have this set up already, don't bother with this right now. Go set that up.  
