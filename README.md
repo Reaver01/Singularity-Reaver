@@ -81,6 +81,6 @@ R2_D2\S4
   QWORD22.WAV  
   
 Mixed  
-  ~~Various sounds I wanted to play during FSD Jump. Just pick and choose your favorite lines!~~
+  ~~Various sounds I wanted to play during FSD Jump. Just pick and choose your favorite lines!~~  
   Current version does not use these.
   
