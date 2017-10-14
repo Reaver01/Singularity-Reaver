@@ -27,7 +27,7 @@ If you got past that first part, downloaded the add on and have everything setup
 3. Click "Import Commands" at the bottom on the left  
 4. Select the "IMPORT INTO SINGULARITY AND OVERWRITE COMMANDS.vap" file and click "Open"  
   Before you ask: Yes, it is necissary to do this. I rely on a few Booleans from Journal events and they need to be in the main profile to work correctly.  
-5. This is where you are going to be hesitant. I know, it's big red and scary, but make sure all 4 things are checked and click the "Import" button. I promise you won't explode, and in fact, this will not change anything with your "Elite: Singularity" Profile, it just gives me some true/false flags  
+5. This is where you are going to be hesitant. I know, it's big red and scary, but make sure all 5 things are checked and click the "Import" button. I promise you won't explode, and in fact, this will not change anything with your "Elite: Singularity" Profile, it just gives me some true/false flags  
 6. Click "Yes"  
 7. We are done with that profile for now, so click "Done"  
 8. Click the "+" button and "Import Profile"  
