@@ -1,5 +1,6 @@
 # Singularity-Reaver  
 Add on profile for the HCS Singularity BETA  
+Please be aware that this is a PLUGIN, and is in no way shape or form necessary, or needed for your HCS profile. If you use this plugin, please be aware that it could cause unnecessary errors in your running profile, and if you believe you have found an issue with HCS' profiles, you should completely disable this plugin and attempt to recreate the error without it before bringing the bug to HCS support, as they do not have a responsibility to troubleshoot my plugin. 
 
 ## Current Features  
 
