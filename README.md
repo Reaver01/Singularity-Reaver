@@ -12,7 +12,7 @@ Please be aware that this is a PLUGIN, and is in no way shape or form necessary,
  - "What mode am I in" uses TTS to tell you if you are in Open/Group/Solo in case you forget  
  - "Copy System Name" will copy the system you are currently in to the windows clipboard  
  - Mode switcher command will flip those pesky boards for you.
- - Music commands. These will work with any music player that recognises media keys. I use https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-/releases which is why there are the thumps up/down ones
+ - Music commands. These will work with any music player that recognises media keys. I use https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-/releases which is why there are the thumps up/down ones **Thumbs up and down have changed to Ctrl + Alt + . and Ctrl + Alt + ,**
 
 
 # How to use this add on  
